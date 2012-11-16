@@ -19,8 +19,8 @@
 package de.lohndirekt.print.attribute;
 
 /**
- *Bezeichnungen übernommen aus <link>www.ietf.org/rfc/rfc2910.txt</link>
- *Tags ohne Bezeichnung sind dort nicht aufgeführt, werden aber in der Cups-API verwendet
+ *Bezeichnungen Ã¼bernommen aus <link>www.ietf.org/rfc/rfc2910.txt</link>
+ *Tags ohne Bezeichnung sind dort nicht aufgefÃ¼hrt, werden aber in der Cups-API verwendet
  */
 public class IppDelimiterTag {
 	
